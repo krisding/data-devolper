@@ -1,7 +1,9 @@
 # Default ignored files
 /workspace.xml
 
-
-/*.csv
-/*.iml
-/*.xml
+*.iml
+*.xml
+/ CVS / *
+** / CVS / *
+.cvsignore
+* / .cvsignore
