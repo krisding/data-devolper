@@ -21,4 +21,5 @@ class Test(object):
 if __name__ == '__main__':
     a = Test()
     b = Test()
-    print a == b
+
+    print (a == b)
